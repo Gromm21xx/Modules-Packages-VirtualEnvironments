@@ -22,7 +22,9 @@
 10. Use the newly created utility functions get_preferred_customers and get_customer_emails to perform operations on the customer instances. 
 11. Print the preferred customers' information and the list of customer emails. 
 12. Run the main.py script and observe the output. 
+    
 **Stretch Activity:**
+
 1. Open the customer_utils.py file. 
 2. Add a new utility function called get_top_spenders(customers, n) that takes a list of customer instances and an integer n as parameters. This function should return the top n customers based on their total amount spent. 
 3. Open the main.py file and import the get_top_spenders function from the customer_utils module. 
